@@ -20,6 +20,8 @@ export const GlobalStyle = createGlobalStyle`
  }
 
    body, input, textarea, button {
-      font: 400, 1rem 'Roboto', sans-serif;
+      font-size: 1rem;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 400;
    }
 `
