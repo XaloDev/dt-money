@@ -2,16 +2,17 @@ import styled from 'styled-components'
 
 export const TransactionsContainer = styled.main`
   width: 100%;
-  max-width: 1120px;
   margin: 0 auto;
-  padding: 0 1.5rem;
 `
 
 export const TransactionsTable = styled.table`
   width: 100%;
   border-spacing: 0 0.5rem;
   border-collapse: separate;
+  max-width: 1120px;
+  margin: 0 auto;
   margin-top: 1.5rem;
+  padding: 0 1.5rem;
 
   td {
     padding: 1.25rem 2rem;
