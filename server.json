@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "id": "1",
+            "description": "Desenvolvimento de um sistema de gestão de transações financeiras",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000.0,
+            "createdAt": "2023-04-08T19:13:35.359Z"
+        }, 
+        {
+            "id": "2",
+            "description": "Desenvolvimento de uma landing Page",
+            "type": "income",
+            "category": "Venda",
+            "price": 2000.0,
+            "createdAt": "2023-04-08T19:13:35.359Z"
+        },
+        {
+            "id": "3",
+            "description": "Salário Ícaro Silva",
+            "type": "outcome",
+            "category": "Custos",
+            "price": 7500.0,
+            "createdAt": "2023-04-02T19:00:00.359Z"
+        }
+    ]
+}
