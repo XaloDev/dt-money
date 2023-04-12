@@ -1,28 +1,76 @@
 {
-    "transactions": [
-        {
-            "id": "1",
-            "description": "Desenvolvimento de um sistema de gestão de transações financeiras",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000.0,
-            "createdAt": "2023-04-08T19:13:35.359Z"
-        }, 
-        {
-            "id": "2",
-            "description": "Desenvolvimento de uma landing Page",
-            "type": "income",
-            "category": "Venda",
-            "price": 2000.0,
-            "createdAt": "2023-04-08T19:13:35.359Z"
-        },
-        {
-            "id": "3",
-            "description": "Salário Ícaro Silva",
-            "type": "outcome",
-            "category": "Custos",
-            "price": 7500.0,
-            "createdAt": "2023-04-02T19:00:00.359Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de um sistema de gestão de transações financeiras",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-08T19:13:35.359Z"
+    },
+    {
+      "id": "2",
+      "description": "Desenvolvimento de uma landing Page",
+      "type": "income",
+      "category": "Venda",
+      "price": 2000,
+      "createdAt": "2023-04-08T19:13:35.359Z"
+    },
+    {
+      "id": "3",
+      "description": "Salário Ícaro Silva",
+      "type": "outcome",
+      "category": "Custos",
+      "price": 7500,
+      "createdAt": "2023-04-02T19:00:00.359Z"
+    },
+    {
+      "description": "Açaí e Macarrão",
+      "price": 42,
+      "category": "Comida",
+      "type": "outcome",
+      "id": "UzbnsLt",
+      "createdAt": "2023-04-02T19:00:00.359Z"
+    },
+    {
+      "description": "Empréstimo Fornecido",
+      "price": 50,
+      "category": "Custos",
+      "type": "outcome",
+      "id": "KYbL5Gi",
+      "createdAt": "2023-04-02T19:00:00.359Z"
+    },
+    {
+      "description": "Curso Rocketseat Ignite",
+      "price": 2000,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-04-12T01:33:03.991Z",
+      "id": "XrBn172"
+    },
+    {
+      "description": "Vacina pro Apolo",
+      "price": 200,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-04-12T01:33:48.425Z",
+      "id": "dWQDe91"
+    },
+    {
+      "description": "Churrasco",
+      "price": 20,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2023-04-12T01:35:01.615Z",
+      "id": "bAvsZit"
+    },
+    {
+      "description": "Coleira nova",
+      "price": 50,
+      "category": "Pet",
+      "type": "outcome",
+      "createdAt": "2023-04-12T01:46:49.964Z",
+      "id": "lcwgkFB"
+    }
+  ]
 }
